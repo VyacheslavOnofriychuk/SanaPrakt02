@@ -2,5 +2,5 @@
 Console.WriteLine("Vyacheslav Onofriychuk");
 Console.WriteLine("Vyacheslav Onofriychuk");
 Console.WriteLine("Vyacheslav Onofriychuk");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Onofriychuk");
+Console.WriteLine("Onofriychuk");
